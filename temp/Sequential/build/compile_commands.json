@@ -1,0 +1,8 @@
+[
+{
+  "directory": "Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/build",
+  "command": "D:\\msys264bit\\mingw64\\bin\\g++.exe  @CMakeFiles/scheduler.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\scheduler.dir\\src\\main.cpp.obj -c Z:\\Dev-learning\\Studia\\DP-cpp\\task-scheduler-cpp\\src\\main.cpp",
+  "file": "Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/src/main.cpp",
+  "output": "CMakeFiles/scheduler.dir/src/main.cpp.obj"
+}
+]

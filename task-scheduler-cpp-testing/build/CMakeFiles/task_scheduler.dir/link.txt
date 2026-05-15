@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\task_scheduler.dir/objects.a
+D:\msys264bit\mingw64\bin\ar.exe qc CMakeFiles\task_scheduler.dir/objects.a @CMakeFiles\task_scheduler.dir\objects1.rsp
+D:\msys264bit\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\task_scheduler.dir/objects.a -Wl,--no-whole-archive -o task_scheduler.exe -Wl,--out-implib,libtask_scheduler.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\task_scheduler.dir\linkLibs.rsp

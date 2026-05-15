@@ -1,0 +1,3 @@
+Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/build/CMakeFiles/scheduler.dir
+Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/build/CMakeFiles/edit_cache.dir
+Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/build/CMakeFiles/rebuild_cache.dir

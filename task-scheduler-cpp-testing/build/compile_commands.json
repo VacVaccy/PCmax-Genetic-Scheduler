@@ -1,0 +1,38 @@
+[
+{
+  "directory": "Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/build",
+  "command": "D:\\msys264bit\\mingw64\\bin\\g++.exe  @CMakeFiles/task_scheduler.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\task_scheduler.dir\\src\\main.cpp.obj -c Z:\\Dev-learning\\Studia\\DP-cpp\\task-scheduler-cpp\\src\\main.cpp",
+  "file": "Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/src/main.cpp",
+  "output": "CMakeFiles/task_scheduler.dir/src/main.cpp.obj"
+},
+{
+  "directory": "Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/build",
+  "command": "D:\\msys264bit\\mingw64\\bin\\g++.exe  @CMakeFiles/task_scheduler.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\task_scheduler.dir\\src\\Crossing.cpp.obj -c Z:\\Dev-learning\\Studia\\DP-cpp\\task-scheduler-cpp\\src\\Crossing.cpp",
+  "file": "Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/src/Crossing.cpp",
+  "output": "CMakeFiles/task_scheduler.dir/src/Crossing.cpp.obj"
+},
+{
+  "directory": "Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/build",
+  "command": "D:\\msys264bit\\mingw64\\bin\\g++.exe  @CMakeFiles/task_scheduler.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\task_scheduler.dir\\src\\Fitness.cpp.obj -c Z:\\Dev-learning\\Studia\\DP-cpp\\task-scheduler-cpp\\src\\Fitness.cpp",
+  "file": "Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/src/Fitness.cpp",
+  "output": "CMakeFiles/task_scheduler.dir/src/Fitness.cpp.obj"
+},
+{
+  "directory": "Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/build",
+  "command": "D:\\msys264bit\\mingw64\\bin\\g++.exe  @CMakeFiles/task_scheduler.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\task_scheduler.dir\\src\\GreedyScheduler.cpp.obj -c Z:\\Dev-learning\\Studia\\DP-cpp\\task-scheduler-cpp\\src\\GreedyScheduler.cpp",
+  "file": "Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/src/GreedyScheduler.cpp",
+  "output": "CMakeFiles/task_scheduler.dir/src/GreedyScheduler.cpp.obj"
+},
+{
+  "directory": "Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/build",
+  "command": "D:\\msys264bit\\mingw64\\bin\\g++.exe  @CMakeFiles/task_scheduler.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\task_scheduler.dir\\src\\Mutation.cpp.obj -c Z:\\Dev-learning\\Studia\\DP-cpp\\task-scheduler-cpp\\src\\Mutation.cpp",
+  "file": "Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/src/Mutation.cpp",
+  "output": "CMakeFiles/task_scheduler.dir/src/Mutation.cpp.obj"
+},
+{
+  "directory": "Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/build",
+  "command": "D:\\msys264bit\\mingw64\\bin\\g++.exe  @CMakeFiles/task_scheduler.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\task_scheduler.dir\\src\\DataParser.cpp.obj -c Z:\\Dev-learning\\Studia\\DP-cpp\\task-scheduler-cpp\\src\\DataParser.cpp",
+  "file": "Z:/Dev-learning/Studia/DP-cpp/task-scheduler-cpp/src/DataParser.cpp",
+  "output": "CMakeFiles/task_scheduler.dir/src/DataParser.cpp.obj"
+}
+]
